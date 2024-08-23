@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run DeckOfCards (Other Features)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.seegrid.playingcards.Main" />
+    <module name="DeckOfCards.main" />
+    <option name="PROGRAM_PARAMETERS" value="extra" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.seegrid.playingcards.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
